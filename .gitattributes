@@ -1,2 +1,228 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+print("Welcome to my computer quiz!")
+playing = input("Do you want to play? ")
+if playing != "yes":
+    quit()
+print("Okay!Let's play:)")
+#1
+answer = input("What does CPU stands for? ")
+if answer =="Central Processing Unit":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#2
+answer = input("Is Tomato a fruit? ")
+if answer =="Yes":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#3
+answer = input("Which is the Largest country in the world?  ")
+if answer =="Russia":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#4
+answer = input("which country has the most amount of world cups? ")
+if answer =="Brazil":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#5
+answer = input("which is the most populated country? ")
+if answer =="India":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#6
+answer = input("Which state in India is known as 'God's Own Country'? ")
+if answer =="Kerala":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#7
+answer = input("what is the full form of USA?  ")
+if answer =="United States of America":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#8
+answer = input("which country holds most Amount of Gold Reserves?  ")
+if answer =="USA":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#9
+answer = input("Where was Jesus born? ")
+if answer =="Nazareth":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#10
+answer = input("Who discovered America? ")
+if answer =="Coloumbus":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#11
+answer = input("who is the richest person in the world? ")
+if answer =="Elon Musk":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#12
+answer = input("Who step foot on the Moon? ")
+if answer =="Neil Armstrong":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#13
+answer = input("which Football Club Has the most Amount of UCL titles? ")
+if answer =="Real Madrid":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#14
+answer = input("Santiago Bernabeau is the home grond of which football club? ")
+if answer =="Real Madrid":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#15
+answer = input("Mo Salah plays in which Football Club? ")
+if answer =="Liverpool":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#16
+answer = input("Who is the coach of Liverpool? ")
+if answer =="Arne Slot":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#17
+answer = input("Which Country gifted the Statue of Liberty to America? ")
+if answer =="France":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#18
+answer = input("Which is the smallest country in the world by land area? ")
+if answer =="Vatican City":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#19
+answer = input("How many colors are there is a Rainbow? ")
+if answer =="7":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#20
+answer = input("Which Organ in Human body filters the bolld and produces Urine? ")
+if answer =="Vincent Van Gogh":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#21
+answer = input("Who wrote the classic play'Romeo & Juliet'? ")
+if answer =="William Shakesphere":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#22
+answer = input("What is the longest River in the world? ")
+if answer =="River Nile":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#23
+answer = input("Which operating system uses the mascot 'Tux' the penguin?  ")
+if answer =="Linux":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#24
+answer = input("What is the smallest unit of Data?  ")
+if answer =="Bit":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#25
+answer = input("What is the name of a main circuit Board Inside of a computer?  ")
+if answer =="Motherboard":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#26
+answer = input(" Which planet in our solar system is known for its prominent ring system? ")
+if answer =="Saturn":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#27
+answer = input("What is the capital city of australia? ")
+if answer =="Sydney":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#28
+answer = input("How many bones are there in a human Body? ")
+if answer =="206":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#29
+answer = input("Who painted the famous art work? ")
+if answer =="Vincent Van Gogh":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#30
+answer = input("what is the chemical symbol for the element Gold? ")
+if answer =="Au":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#31
+answer = input("which ocean is the largest and deepest on Earth? ")
+if answer =="Pacafic Ocean":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#32
+answer = input("In whatyear did the titanic sink? ")
+if answer =="1912":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#33
+answer = input("what is the hardest natural substance on Earth? ")
+if answer =="Diamond":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#34
+answer = input("How many continents are there on Earth? ")
+print("8,7,3,9")
+if answer =="7":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#35
+    answer = input("In Which did the First Iphone released?  ")
+if answer =="2007":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#33
+answer = input("What was the first video uploaded to Youtube Titled?  ")
+if answer =="Me at the Zoo":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
+#34
+answer = input("How many hearts does and Octopus have? ")
+if answer =="3s":
+    print("Correct Answer!")
+else:
+    print("Incorrect")
